@@ -1,0 +1,1 @@
+Next class assignment: based on value of Z (1|2) function will be called. like z=1 display the result of bisection and z=2 will display the result of false possition.
